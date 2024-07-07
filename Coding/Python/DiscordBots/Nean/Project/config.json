@@ -1,0 +1,11 @@
+SERVER_ID = 954771483866071122
+PROFILECHANNEL = 800414150484033608
+PROFILEROLE = 982326717421080576
+SERVER_ICON = "https://cdn.discordapp.com/icons/954771483866071122/a_66bb82b6dc88bdeff6f1c5f1d365a64a.gif?size=1024"
+SERVER_NAME = "Devil Life"
+# ACCOUNTSDATABASE = ".\\.\\assets\\databases\\Accounts.json"
+ACCOUNTSDATABASE = "Project\\assets\\databases\\Accounts.json"
+TEMPPROFILE = "Project\\assets\\Images\\Temp-Profile.png"
+PROFILESDATABASE = "Project\\assets\\databases\\Profiles.json"
+FONTPATH = "Project\\assets\\Fonts\\Font.ttf"
+FONTENGPATH = "Project\\assets\\Fonts\\Fonteng.ttf"

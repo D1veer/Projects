@@ -1,0 +1,72 @@
+{
+    "0": {
+        "staff": 619340445692067890,
+        "member": 619340445692067890,
+        "reason": "last test",
+        "procedure": "ban",
+        "duration": "12h",
+        "id": 0,
+        "attachments": [],
+        "time": "2022-06-05 03:07:51"
+    },
+    "1": {
+        "staff": 619340445692067890,
+        "member": 578400152944115712,
+        "reason": "sbk hack exp",
+        "procedure": "ban",
+        "duration": "12h",
+        "id": 1,
+        "attachments": [],
+        "time": "2022-06-18 19:21:31"
+    },
+    "2": {
+        "staff": 850228084987658250,
+        "member": 578400152944115712,
+        "reason": "sbk hack exp",
+        "procedure": "ban",
+        "duration": "12h",
+        "id": 2,
+        "attachments": [],
+        "time": "2022-06-18 19:21:54"
+    },
+    "3": {
+        "staff": 619340445692067890,
+        "member": 578400152944115712,
+        "reason": "hacker fly",
+        "procedure": "ban",
+        "duration": "12d",
+        "id": 3,
+        "attachments": [],
+        "time": "2022-06-23 12:02:38"
+    },
+    "4": {
+        "staff": 578400152944115712,
+        "member": 578400152944115712,
+        "reason": "\u0636\u0639\u064a\u0641\u0647",
+        "procedure": "ban",
+        "duration": "12d",
+        "id": 4,
+        "attachments": [],
+        "time": "2022-06-23 12:05:31"
+    },
+    "5": {
+        "staff": 578400152944115712,
+        "member": 979869761297068032,
+        "reason": "\u0636\u0639\u064a\u0641\u0647",
+        "procedure": "ban",
+        "duration": "12d",
+        "id": 5,
+        "attachments": [],
+        "time": "2022-06-23 12:05:54"
+    },
+    "6": {
+        "staff": 619340445692067890,
+        "member": 685820797834493964,
+        "reason": "ily",
+        "procedure": "ban",
+        "duration": "12d",
+        "id": 6,
+        "attachments": [],
+        "time": "2022-07-01 03:41:03"
+    }
+}

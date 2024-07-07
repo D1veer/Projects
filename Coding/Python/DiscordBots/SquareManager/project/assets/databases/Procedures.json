@@ -1,0 +1,42 @@
+{
+    "0": {
+        "staff": 619340445692067890,
+        "member": 619340445692067890,
+        "reason": "last test",
+        "procedure": "ban",
+        "duration": "12h",
+        "id": 0,
+        "attachments": [],
+        "time": "2022-06-05 03:07:51"
+    },
+    "1": {
+        "staff": 619340445692067890,
+        "member": 619340445692067890,
+        "reason": "hack fly",
+        "procedure": "ban",
+        "duration": "12d",
+        "id": 1,
+        "attachments": [],
+        "time": "2022-07-21 20:48:56"
+    },
+    "2": {
+        "staff": 619340445692067890,
+        "member": 619340445692067890,
+        "reason": "hack",
+        "procedure": "ban",
+        "duration": "2d",
+        "id": 2,
+        "attachments": [],
+        "time": "2022-07-21 20:50:58"
+    },
+    "3": {
+        "staff": 619340445692067890,
+        "member": 949243866576465950,
+        "reason": "b7bk",
+        "procedure": "mute",
+        "duration": "12h",
+        "id": 3,
+        "attachments": [],
+        "time": "2022-07-21 20:51:53"
+    }
+}

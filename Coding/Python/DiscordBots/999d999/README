@@ -1,0 +1,9 @@
+Requirements:
+
+- Python 3.10+
+
+Instructions:
+- Install python (if you haven't already)
+- install everything in the requirements.txt file by going to your terminal and executing this command - "pip install -r {path to requirements.txt}"
+- put your user token, message, and cooldown (# of seconds between messages) in the config.json
+- run main.py
